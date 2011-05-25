@@ -3,7 +3,7 @@
  *
  * Insert a new node into a sorted linked list.
  *
- * Steven Hepting
+ * Steven Hepting - May 24, 2011
  */
 
 #include <stdio.h>
