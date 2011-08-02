@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-#define NUM_TESTS 10000
-#define MAX_NUM 100
+#define NUM_TESTS 100000
+#define MAX_NUM 3
 #define foo4random() (arc4random() % ((unsigned)RAND_MAX + 1))
 
 int main (int argc, const char * argv[])
