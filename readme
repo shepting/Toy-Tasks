@@ -1,1 +1,4 @@
 Just a couple of little programs to do trivial tasks. These should really be Gists but it's pretty handy to have them all together.
+
+To compile the Objective-C apps you can use:
+    gcc num_dirs.m -framework Foundation -o main

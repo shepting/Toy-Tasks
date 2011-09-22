@@ -16,7 +16,7 @@ void test_as_char(){
 
     }
 
-int main(int argc, char argv[])
+int main(int argc, char *argv[])
 {
     printf("Starting\n");
     end_test.integer = 1<<3;
